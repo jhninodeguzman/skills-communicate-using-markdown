@@ -6,7 +6,7 @@
 ###### what will you do
 
 
-
+![Yaktocat to the rescue](https://octodex.github.com/images/yaktocat.png)
 
 
 # Primer commit from markdown
